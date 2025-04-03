@@ -78,9 +78,9 @@
         nums {
             display-name = "NUMBER";
             bindings = <
-&trans  &kp C_BRI_UP  &kp C_BRI_DN  &kp C_VOL_DN  &kp C_VOL_UP  &kp ESCAPE                    &none         &kp LG(SPACE)  &kp LEFT_PARENTHESIS  &kp EQUAL     &kp RIGHT_PARENTHESIS  &kp UNDERSCORE  &kp BSPC
-&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5           &none  &none  &none  &kp NUMBER_6   &kp N7                &kp NUMBER_8  &kp NUMBER_9           &kp NUMBER_0    &kp PG_UP
-&trans  &kp HASH      &kp PLUS      &kp GRAVE     &kp MINUS     &kp PLUS      &none           &none         &kp PERIOD     &kp COMMA             &kp COMMA     &kp PERIOD             &kp END         &kp PG_DN
+&trans  &kp C_BRI_UP  &kp C_BRI_DN  &kp C_VOL_DN  &kp C_VOL_UP  &kp ESCAPE                    &none         &kp LG(SPACE)  &kp LEFT_PARENTHESIS  &kp EQUAL     &kp RIGHT_PARENTHESIS  &kp LC(SPACE)  &kp BSPC
+&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5           &none  &none  &none  &kp NUMBER_6   &kp N7                &kp NUMBER_8  &kp NUMBER_9           &kp NUMBER_0   &kp PG_UP
+&trans  &kp HASH      &kp PLUS      &kp GRAVE     &kp MINUS     &kp PLUS      &none           &none         &kp PERIOD     &kp COMMA             &kp COMMA     &kp PERIOD             &kp END        &kp PG_DN
                                     &trans        &trans        &trans                                      &trans         &trans                &trans
             >;
         };
